@@ -1,8 +1,8 @@
-"""worte nums
+"""001
 
-Revision ID: 2e22bb63ff55
+Revision ID: 6fed987deea3
 Revises: 
-Create Date: 2019-01-08 18:42:31.379313
+Create Date: 2019-01-11 19:06:28.600226
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = '2e22bb63ff55'
+revision = '6fed987deea3'
 down_revision = None
 branch_labels = None
 depends_on = None
