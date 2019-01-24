@@ -1,3 +1,4 @@
+print('day7')
 print("world is cool")
 print("hello world')
 for i in range(0,10):
